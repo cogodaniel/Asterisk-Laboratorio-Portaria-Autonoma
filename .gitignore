@@ -1,0 +1,19 @@
+# backups e temporários
+*.bak
+*.old
+*.swp
+*.tmp
+
+# arquivos sensíveis
+pjsip.conf
+sip.conf
+iax.conf
+manager.conf
+http.conf
+ari.conf
+users.conf
+voicemail.conf
+
+# bancos e runtime
+astdb
+*.db
