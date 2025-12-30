@@ -11,7 +11,9 @@ Por exemplo, nestes cenários a chamada é encaminhada primeiramete no interfone
 O cenário é composto da seguinte forma. 
 
 -ATA (modelo utilizado KAP320X), onde o lado SIP esta registrado em uma conta PJSIP do Asterisk, a poarta FXO deste ATA esta conectado em uma posição de ramal da central analógica
+
 -A central analógica por sua vez distribui ramais analógicos para os apartamentos conectado em interfones.
+
 -Além disso no softphone existe um ramla VoIP em um softphonme registrado em uma conta PJSIP no Asterisk, por sua vez este ramal precisa possuir o mesmo número que o apartamento.  
 
 Este cenário tem por finalidade ligar para dois pontos, primeiro para o interfone do apartamento, caso não eja atendida em 20 segundos ela é transferida para o ramal que esta no celular. 
@@ -28,7 +30,9 @@ chegando o número discado no ATA e este por sua vez fazendo o processo de conve
 ## 3. Como Instalar o Laboratório:
 
 1 - Priomeiramente precisa ter instalado o Asterisk 22. 
+
 2 - Baixe o conteudo deste repositório. 
+
 3 - Em seguida substitua os arquivos pjsip.conf e extensiosns.conf (que estão dentro da pasta /etc/asterisk). Adicione os arquivos pjsip_additional.conf e extensiosns_additional.conf
 
 
