@@ -44,7 +44,10 @@ Importante 2: O ramal utilizado como apartamento é 22 pois esta é a faixa da c
 - Conecte um ramal analógico da central na porta FXO do ATA
 - Crie um rota no ATA com sentido SIP > FXO
 - Apartamento/Ramal SIP: 22 (contexto: cenario-1-entrada)
- 
+
+
+ <img width="1291" height="583" alt="cenario1-port" src="https://github.com/user-attachments/assets/960fa114-56f3-4ff0-9bc7-2599af421f6f" />
+
 
 4.2. Cenario 2:
 - No Facial/porteiuro registre o ramal 6000 (senha: sip1234)
