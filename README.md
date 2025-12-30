@@ -39,6 +39,7 @@ chegando o número discado no ATA e este por sua vez fazendo o processo de conve
 ## 4. Como Montar o Laboratório:
 
 Importante 1: Habilitar a opção "200OK após atendimento pelo FXO"
+
 Importante 2: O ramal utilizado como apartamento é 22 pois esta é a faixa da central analógica. 
 
 4.1. Cenario 1:
