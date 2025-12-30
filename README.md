@@ -57,3 +57,6 @@ Importante 2: O ramal utilizado como apartamento é 22 pois esta é a faixa da c
 - Crie um rota no ATA com sentido SIP > FXO, e um transbordo de 20 segundos para o SIP
 - Apartamento/Ramal SIP: 22 (contexto: cenario-2-entrada)
 
+<img width="1291" height="583" alt="cenario-2-port" src="https://github.com/user-attachments/assets/545b51a5-9eb8-428b-9e35-9cb777f220e3" />
+
+
